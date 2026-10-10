@@ -19,7 +19,7 @@
     <td>🎓 <b>Formation :</b> BTS SIO (2<sup>e</sup> année)</td>
   </tr>
   <tr>
-    <td>💻 <b>Je code surtout en :</b> Java &amp; Python</td>
+    <td>💻 <b>Je code surtout en :</b> Java &amp; PHP</td>
   </tr>
   <tr>
     <td>🌱 <b>Je consolide :</b> PHP et le scripting PowerShell</td>
