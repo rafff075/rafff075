@@ -83,13 +83,13 @@
 
 <p align="center">
   <a href="https://TON-PORTFOLIO.fr">
-    <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="[Portfolio](https://portfolio-raphaelbac.myportfolio.com)" />
   </a>
   <a href="https://www.linkedin.com/in/TON_PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/raphaël-bac-406a563a8 )" />
   </a>
   <a href="mailto:ton.email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="[Email]rbac@lerebours.fr" />
   </a>
 </p>
 
