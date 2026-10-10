@@ -82,14 +82,14 @@
 <h2 align="center">📬 Me contacter</h2>
 
 <p align="center">
-  <a href="https://TON-PORTFOLIO.fr">
-    <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="[Portfolio](https://portfolio-raphaelbac.myportfolio.com)" />
+  <a href="https://portfolio-raphaelbac.myportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/TON_PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/raphaël-bac-406a563a8 )" />
+  <a href="https://www.linkedin.com/in/raphaël-bac-406a563a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ton.email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="[Email]rbac@lerebours.fr" />
+  <a href="mailto:rbac@lerebours.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
